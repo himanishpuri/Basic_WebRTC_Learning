@@ -96,6 +96,4 @@ npm run build
 npm start
 ```
 
-## License
 
-[MIT](LICENSE)
